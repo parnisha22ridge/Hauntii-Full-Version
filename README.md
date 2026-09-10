@@ -266,3 +266,6 @@ This repository serves as the official landing page for Hauntii. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hauntii today!**
+
+---
+**Last updated:** 2026-09-10 23:39:36 UTC
