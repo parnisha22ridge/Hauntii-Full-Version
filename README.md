@@ -268,4 +268,4 @@ This repository serves as the official landing page for Hauntii. The software is
 **Get the most recent version of Hauntii today!**
 
 ---
-**Last updated:** 2026-10-19 05:39:33 UTC
+**Last updated:** 2026-10-19 11:58:20 UTC
